@@ -1,0 +1,164 @@
+25:975  10:283  Found BIOS RSDP at F0010
+25:975  0:000  Printing ACPI tables from RSDP F0010 ...
+25:975  0:000   F0010: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+25:975  0:000    (Xsdt: 77CF80A0, Rsdt: 77CF8028)
+25:975  0:000    77CF80A0: 'XSDT', 'A M I', Rev: 1, Len: 188
+25:975  0:000    77CF8028: 'RSDT', 'A M I', Rev: 1, Len: 112
+25:975  0:000    Tables in Xsdt: 19
+25:975  0:000    0. 77D190B0: 'FACP', 'A M I', Rev: 5, Len: 268
+25:975  0:000        (Dsdt: 77CF81F0, Facs: 77F99F80, XDsdt: 77CF81F0, XFacs: 0)
+25:975  0:000        77CF81F0: 'DSDT', 'A M I', Rev: 2, Len: 134841
+25:976  0:001        77F99F80: 'FACS', Ver: 2, Len: 64
+25:976  0:000    1. 77D191C0: 'APIC', 'A M I', Rev: 3, Len: 188
+25:976  0:000    2. 77D19280: 'FPDT', 'A M I', Rev: 1, Len: 68
+25:976  0:000    3. 77D192C8: 'FIDT', 'A M I', Rev: 1, Len: 156
+25:976  0:000    4. 77D19368: 'MCFG', 'A M I', Rev: 1, Len: 60
+25:976  0:000    5. 77D193A8: 'HPET', 'A M I', Rev: 1, Len: 56
+25:976  0:000    6. 77D193E0: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+25:976  0:000    7. 77D19750: 'LPIT', 'SKL', Rev: 1, Len: 148
+25:976  0:000    8. 77D197E8: 'SSDT', 'UsbCTabl', Rev: 2, Len: 43
+25:976  0:000    9. 77D19818: 'DBGP', '', Rev: 1, Len: 52
+25:976  0:000    10. 77D19850: 'DBG2', '', Rev: 0, Len: 84
+25:976  0:000    11. 77D198A8: 'SSDT', 'xh_rvp08', Rev: 2, Len: 1519
+25:976  0:000    12. 77D19E98: 'AAFT', 'OEMAAFT', Rev: 1, Len: 654
+25:976  0:000    13. 77D1A128: 'SSDT', 'SaSsdt', Rev: 2, Len: 21010
+25:976  0:000    14. 77D1F340: 'UEFI', '', Rev: 1, Len: 66
+25:976  0:000    15. 77D1F388: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3672
+25:976  0:000    16. 77D201E0: 'VFCT', 'A M I', Rev: 1, Len: 60548
+25:976  0:000    17. 77D2EE68: 'BGRT', 'A M I', Rev: 1, Len: 56
+25:976  0:000    18. 77D2EEA0: 'ASF!', ' HCG', Rev: 32, Len: 165
+25:976  0:000    Tables in Rsdt: 19
+25:976  0:000    0. 77CF8168: 'FACP', 'A M I', Rev: 2, Len: 132
+25:976  0:000        (Dsdt: 77CF81F0, Facs: 77F99F40)
+25:976  0:000        77CF81F0: 'DSDT', 'A M I', Rev: 2, Len: 134841
+25:977  0:001        77F99F40: 'FACS', Ver: 0, Len: 64
+25:977  0:000    1. 77D191C0: 'APIC', 'A M I', Rev: 3, Len: 188
+25:977  0:000    2. 77D19280: 'FPDT', 'A M I', Rev: 1, Len: 68
+25:977  0:000    3. 77D192C8: 'FIDT', 'A M I', Rev: 1, Len: 156
+25:977  0:000    4. 77D19368: 'MCFG', 'A M I', Rev: 1, Len: 60
+25:977  0:000    5. 77D193A8: 'HPET', 'A M I', Rev: 1, Len: 56
+25:977  0:000    6. 77D193E0: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+25:977  0:000    7. 77D19750: 'LPIT', 'SKL', Rev: 1, Len: 148
+25:977  0:000    8. 77D197E8: 'SSDT', 'UsbCTabl', Rev: 2, Len: 43
+25:977  0:000    9. 77D19818: 'DBGP', '', Rev: 1, Len: 52
+25:977  0:000    10. 77D19850: 'DBG2', '', Rev: 0, Len: 84
+25:978  0:000    11. 77D198A8: 'SSDT', 'xh_rvp08', Rev: 2, Len: 1519
+25:978  0:000    12. 77D19E98: 'AAFT', 'OEMAAFT', Rev: 1, Len: 654
+25:978  0:000    13. 77D1A128: 'SSDT', 'SaSsdt', Rev: 2, Len: 21010
+25:978  0:000    14. 77D1F340: 'UEFI', '', Rev: 1, Len: 66
+25:978  0:000    15. 77D1F388: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3672
+25:978  0:000    16. 77D201E0: 'VFCT', 'A M I', Rev: 1, Len: 60548
+25:978  0:000    17. 77D2EE68: 'BGRT', 'A M I', Rev: 1, Len: 56
+25:978  0:000    18. 77D2EEA0: 'ASF!', ' HCG', Rev: 32, Len: 165
+25:978  0:000  Found UEFI Acpi 2.0 RSDP at 77CF8000
+25:978  0:000  Saving ACPI tables from RSDP 77CF8000 to EFI\CLOVER\ACPI\origin ...
+25:978  0:000   77CF8000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+26:030  0:052    (Xsdt: 77CF80A0, Rsdt: 77CF8028)
+26:030  0:000    77CF80A0: 'XSDT', 'A M I', Rev: 1, Len: 188 -> XSDT.aml
+26:076  0:046    77CF8028: 'RSDT', 'A M I', Rev: 1, Len: 112 -> RSDT.aml
+26:123  0:046    Tables in Xsdt: 19
+26:123  0:000    0. 77D190B0: 'FACP', 'A M I', Rev: 5, Len: 268 -> FACP.aml
+26:171  0:047        (Dsdt: 77CF81F0, Facs: 77F99F80, XDsdt: 77CF81F0, XFacs: 0)
+26:171  0:000        77CF81F0: 'DSDT', 'A M I', Rev: 2, Len: 134841 -> DSDT.aml
+26:237  0:065        77F99F80: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+26:284  0:047    1. 77D191C0: 'APIC', 'A M I', Rev: 3, Len: 188 -> APIC.aml
+26:331  0:047    2. 77D19280: 'FPDT', 'A M I', Rev: 1, Len: 68 -> FPDT.aml
+26:406  0:074    3. 77D192C8: 'FIDT', 'A M I', Rev: 1, Len: 156 -> FIDT.aml
+26:587  0:181    4. 77D19368: 'MCFG', 'A M I', Rev: 1, Len: 60 -> MCFG.aml
+26:635  0:047    5. 77D193A8: 'HPET', 'A M I', Rev: 1, Len: 56 -> HPET.aml
+26:682  0:046    6. 77D193E0: 'SSDT', 'SataTabl', Rev: 1, Len: 877 -> SSDT-0-SataTabl.aml
+26:750  0:068    7. 77D19750: 'LPIT', 'SKL', Rev: 1, Len: 148 -> LPIT.aml
+26:803  0:052    8. 77D197E8: 'SSDT', 'UsbCTabl', Rev: 2, Len: 43 -> SSDT-1-UsbCTabl.aml
+26:856  0:052    9. 77D19818: 'DBGP', '', Rev: 1, Len: 52 -> DBGP.aml
+26:911  0:054    10. 77D19850: 'DBG2', '', Rev: 0, Len: 84 -> DBG2.aml
+26:963  0:052    11. 77D198A8: 'SSDT', 'xh_rvp08', Rev: 2, Len: 1519 -> SSDT-2-xh_rvp08.aml
+27:016  0:053    12. 77D19E98: 'AAFT', 'OEMAAFT', Rev: 1, Len: 654 -> AAFT.aml
+27:069  0:052    13. 77D1A128: 'SSDT', 'SaSsdt', Rev: 2, Len: 21010 -> SSDT-3-SaSsdt.aml
+27:122  0:052    14. 77D1F340: 'UEFI', '', Rev: 1, Len: 66 -> UEFI.aml
+27:200  0:078    15. 77D1F388: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3672 -> SSDT-4-CpuSsdt.aml (Found hidden SSDT 7 pcs)
+27:270  0:069        * 75DFA018: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 2160  53 53 44 54 70 08 00 00 02 1B 50 6D 52 65 66 00 Internal length = 2160 -> SSDT-x4_0-Cpu0Ist.aml
+27:323  0:053        * 778F0618: 'SSDT', 'ApIst', Rev: 2, Len: 1450  53 53 44 54 AA 05 00 00 02 CE 50 6D 52 65 66 00 Internal length = 1450 -> SSDT-x4_1-ApIst.aml
+27:376  0:052        * 778F0C18: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 895  53 53 44 54 7F 03 00 00 02 65 50 6D 52 65 66 00 Internal length = 895 -> SSDT-x4_2-Cpu0Cst.aml
+27:428  0:052        * 778F2C18: 'SSDT', 'ApCst', Rev: 2, Len: 281  53 53 44 54 19 01 00 00 02 EA 50 6D 52 65 66 00 Internal length = 281 -> SSDT-x4_3-ApCst.aml
+27:482  0:054        * 75DFE118: 'SSDT', 'Cpu0Hwp', Rev: 2, Len: 142  53 53 44 54 8E 00 00 00 02 2B 50 6D 52 65 66 00 Internal length = 142 -> SSDT-x4_4-Cpu0Hwp.aml
+27:552  0:069        * 76818318: 'SSDT', 'ApHwp', Rev: 2, Len: 281  53 53 44 54 19 01 00 00 02 FD 50 6D 52 65 66 00 Internal length = 281 -> SSDT-x4_5-ApHwp.aml
+27:606  0:053        * 76818198: 'SSDT', 'HwpLvt', Rev: 2, Len: 304  53 53 44 54 30 01 00 00 02 85 50 6D 52 65 66 00 Internal length = 304 -> SSDT-x4_6-HwpLvt.aml
+27:658  0:052  
+27:658  0:000    16. 77D201E0: 'VFCT', 'A M I', Rev: 1, Len: 60548 -> VFCT.aml
+27:719  0:060    17. 77D2EE68: 'BGRT', 'A M I', Rev: 1, Len: 56 -> BGRT.aml
+27:862  0:142    18. 77D2EEA0: 'ASF!', ' HCG', Rev: 32, Len: 165 -> ASF!.aml
+28:455  0:593    Tables in Rsdt: 19
+28:455  0:000    0. 77CF8168: 'FACP', 'A M I', Rev: 2, Len: 132 -> RSDT-FACP.aml
+28:866  0:410        (Dsdt: 77CF81F0, Facs: 77F99F40)
+28:866  0:000        77CF81F0: 'DSDT', 'A M I', Rev: 2, Len: 134841
+28:867  0:001        77F99F40: 'FACS', Ver: 0, Len: 64 -> RSDT-FACS.aml
+29:103  0:236    1. 77D191C0: 'APIC', 'A M I', Rev: 3, Len: 188
+29:103  0:000    2. 77D19280: 'FPDT', 'A M I', Rev: 1, Len: 68
+29:103  0:000    3. 77D192C8: 'FIDT', 'A M I', Rev: 1, Len: 156
+29:103  0:000    4. 77D19368: 'MCFG', 'A M I', Rev: 1, Len: 60
+29:103  0:000    5. 77D193A8: 'HPET', 'A M I', Rev: 1, Len: 56
+29:103  0:000    6. 77D193E0: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+29:103  0:000    7. 77D19750: 'LPIT', 'SKL', Rev: 1, Len: 148
+29:103  0:000    8. 77D197E8: 'SSDT', 'UsbCTabl', Rev: 2, Len: 43
+29:103  0:000    9. 77D19818: 'DBGP', '', Rev: 1, Len: 52
+29:103  0:000    10. 77D19850: 'DBG2', '', Rev: 0, Len: 84
+29:103  0:000    11. 77D198A8: 'SSDT', 'xh_rvp08', Rev: 2, Len: 1519
+29:103  0:000    12. 77D19E98: 'AAFT', 'OEMAAFT', Rev: 1, Len: 654
+29:103  0:000    13. 77D1A128: 'SSDT', 'SaSsdt', Rev: 2, Len: 21010
+29:103  0:000    14. 77D1F340: 'UEFI', '', Rev: 1, Len: 66
+29:103  0:000    15. 77D1F388: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3672
+29:103  0:000    16. 77D201E0: 'VFCT', 'A M I', Rev: 1, Len: 60548
+29:103  0:000    17. 77D2EE68: 'BGRT', 'A M I', Rev: 1, Len: 56
+29:103  0:000    18. 77D2EEA0: 'ASF!', ' HCG', Rev: 32, Len: 165
+29:103  0:000  Found UEFI Acpi 1.0 RSDP at 77CF8000
+29:103  0:000  Printing ACPI tables from RSDP 77CF8000 ...
+29:103  0:000   77CF8000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+29:103  0:000    (Xsdt: 77CF80A0, Rsdt: 77CF8028)
+29:103  0:000    77CF80A0: 'XSDT', 'A M I', Rev: 1, Len: 188
+29:103  0:000    77CF8028: 'RSDT', 'A M I', Rev: 1, Len: 112
+29:103  0:000    Tables in Xsdt: 19
+29:103  0:000    0. 77D190B0: 'FACP', 'A M I', Rev: 5, Len: 268
+29:103  0:000        (Dsdt: 77CF81F0, Facs: 77F99F80, XDsdt: 77CF81F0, XFacs: 0)
+29:103  0:000        77CF81F0: 'DSDT', 'A M I', Rev: 2, Len: 134841
+29:104  0:001        77F99F80: 'FACS', Ver: 2, Len: 64
+29:104  0:000    1. 77D191C0: 'APIC', 'A M I', Rev: 3, Len: 188
+29:104  0:000    2. 77D19280: 'FPDT', 'A M I', Rev: 1, Len: 68
+29:104  0:000    3. 77D192C8: 'FIDT', 'A M I', Rev: 1, Len: 156
+29:104  0:000    4. 77D19368: 'MCFG', 'A M I', Rev: 1, Len: 60
+29:104  0:000    5. 77D193A8: 'HPET', 'A M I', Rev: 1, Len: 56
+29:104  0:000    6. 77D193E0: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+29:104  0:000    7. 77D19750: 'LPIT', 'SKL', Rev: 1, Len: 148
+29:104  0:000    8. 77D197E8: 'SSDT', 'UsbCTabl', Rev: 2, Len: 43
+29:104  0:000    9. 77D19818: 'DBGP', '', Rev: 1, Len: 52
+29:104  0:000    10. 77D19850: 'DBG2', '', Rev: 0, Len: 84
+29:104  0:000    11. 77D198A8: 'SSDT', 'xh_rvp08', Rev: 2, Len: 1519
+29:105  0:000    12. 77D19E98: 'AAFT', 'OEMAAFT', Rev: 1, Len: 654
+29:105  0:000    13. 77D1A128: 'SSDT', 'SaSsdt', Rev: 2, Len: 21010
+29:105  0:000    14. 77D1F340: 'UEFI', '', Rev: 1, Len: 66
+29:105  0:000    15. 77D1F388: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3672
+29:105  0:000    16. 77D201E0: 'VFCT', 'A M I', Rev: 1, Len: 60548
+29:105  0:000    17. 77D2EE68: 'BGRT', 'A M I', Rev: 1, Len: 56
+29:105  0:000    18. 77D2EEA0: 'ASF!', ' HCG', Rev: 32, Len: 165
+29:105  0:000    Tables in Rsdt: 19
+29:105  0:000    0. 77CF8168: 'FACP', 'A M I', Rev: 2, Len: 132
+29:105  0:000        (Dsdt: 77CF81F0, Facs: 77F99F40)
+29:105  0:000        77CF81F0: 'DSDT', 'A M I', Rev: 2, Len: 134841
+29:106  0:001        77F99F40: 'FACS', Ver: 0, Len: 64
+29:106  0:000    1. 77D191C0: 'APIC', 'A M I', Rev: 3, Len: 188
+29:106  0:000    2. 77D19280: 'FPDT', 'A M I', Rev: 1, Len: 68
+29:106  0:000    3. 77D192C8: 'FIDT', 'A M I', Rev: 1, Len: 156
+29:106  0:000    4. 77D19368: 'MCFG', 'A M I', Rev: 1, Len: 60
+29:106  0:000    5. 77D193A8: 'HPET', 'A M I', Rev: 1, Len: 56
+29:106  0:000    6. 77D193E0: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+29:106  0:000    7. 77D19750: 'LPIT', 'SKL', Rev: 1, Len: 148
+29:106  0:000    8. 77D197E8: 'SSDT', 'UsbCTabl', Rev: 2, Len: 43
+29:106  0:000    9. 77D19818: 'DBGP', '', Rev: 1, Len: 52
+29:106  0:000    10. 77D19850: 'DBG2', '', Rev: 0, Len: 84
+29:106  0:000    11. 77D198A8: 'SSDT', 'xh_rvp08', Rev: 2, Len: 1519
+29:106  0:000    12. 77D19E98: 'AAFT', 'OEMAAFT', Rev: 1, Len: 654
+29:106  0:000    13. 77D1A128: 'SSDT', 'SaSsdt', Rev: 2, Len: 21010
+29:106  0:000    14. 77D1F340: 'UEFI', '', Rev: 1, Len: 66
+29:106  0:000    15. 77D1F388: 'SSDT', 'CpuSsdt', Rev: 2, Len: 3672
+29:106  0:000    16. 77D201E0: 'VFCT', 'A M I', Rev: 1, Len: 60548
+29:106  0:000    17. 77D2EE68: 'BGRT', 'A M I', Rev: 1, Len: 56
+29:106  0:000    18. 77D2EEA0: 'ASF!', ' HCG', Rev: 32, Len: 165
