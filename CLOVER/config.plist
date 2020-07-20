@@ -186,7 +186,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v</string>
+		<string>dart=0</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -202,7 +202,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>-1</integer>
+		<integer>3</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
@@ -331,7 +331,7 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>DVMT for AppleIntelSKLGraphicsFramebuffer﻿ (Credits DalianSky) for 10.15.x</string>
+				<string>DVMT for AppleIntelSKLGraphicsFramebuffer (Credits DalianSky) for 10.15.x</string>
 				<key>Disabled</key>
 				<true/>
 				<key>Find</key>
@@ -341,7 +341,7 @@
 				<key>MatchOS</key>
 				<string>10.15.x</string>
 				<key>Name</key>
-				<string>AppleIntelSKLGraph﻿icsFramebuffer﻿﻿﻿</string>
+				<string>AppleIntelSKLGraphicsFramebuffer﻿﻿﻿</string>
 				<key>Replace</key>
 				<data>D4IAAAAA</data>
 			</dict>
